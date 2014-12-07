@@ -1,4 +1,4 @@
-# Rock-paper-scissors-lizard-Spock
+# Rock-paper-scissors-lizard-Spock Game Created by Ayush
 import random
 
 def name_to_number(name):
