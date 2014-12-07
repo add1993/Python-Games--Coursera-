@@ -1,4 +1,4 @@
-# Implementation of classic arcade game Pong
+#Pong Game 
 
 import simplegui
 import random
